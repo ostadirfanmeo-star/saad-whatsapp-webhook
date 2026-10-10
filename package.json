@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.18.2"},"description":"WhatsApp Cloud API webhook for Saad Bot","engines":{"node":">=18.0.0"},"main":"server.js","name":"saad-whatsapp-webhook","scripts":{"start":"node server.js"},"version":"1.0.0"}
